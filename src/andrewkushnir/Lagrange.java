@@ -20,7 +20,7 @@ public class Lagrange {
 
         double ksi = interpolateLagrangePolynomial(x, xValues, yValues, size);
 
-        System.out.println("Полином Лагранжа бугага в точке x=-0,2: " + ksi);
+        System.out.println("Полиндром Лагранжа бугага в точке x=-0,2: " + ksi);
     }
 
 
